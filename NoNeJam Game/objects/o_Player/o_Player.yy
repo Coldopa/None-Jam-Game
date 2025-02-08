@@ -32,8 +32,8 @@
   "solid":false,
   "spriteId":null,
   "spriteMaskId":{
-    "name":"s_Player_Body",
-    "path":"sprites/s_Player_Body/s_Player_Body.yy",
+    "name":"s_Idle",
+    "path":"sprites/s_Idle/s_Idle.yy",
   },
   "visible":true,
 }

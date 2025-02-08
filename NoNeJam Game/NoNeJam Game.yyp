@@ -42,6 +42,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"s_Bullet","path":"sprites/s_Bullet/s_Bullet.yy",},},
     {"id":{"name":"s_Collision","path":"sprites/s_Collision/s_Collision.yy",},},
+    {"id":{"name":"s_Idle","path":"sprites/s_Idle/s_Idle.yy",},},
     {"id":{"name":"s_Player_Body","path":"sprites/s_Player_Body/s_Player_Body.yy",},},
     {"id":{"name":"s_Weapon","path":"sprites/s_Weapon/s_Weapon.yy",},},
   ],
