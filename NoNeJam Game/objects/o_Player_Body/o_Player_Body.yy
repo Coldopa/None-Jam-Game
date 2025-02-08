@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"o_Player",
+  "%Name":"o_Player_Body",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_Player",
+  "name":"o_Player_Body",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -30,10 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
-  "spriteMaskId":{
+  "spriteId":{
     "name":"s_Player_Body",
     "path":"sprites/s_Player_Body/s_Player_Body.yy",
   },
+  "spriteMaskId":null,
   "visible":true,
 }

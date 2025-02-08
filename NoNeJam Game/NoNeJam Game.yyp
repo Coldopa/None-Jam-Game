@@ -34,9 +34,12 @@
   },
   "name":"NoNeJam Game",
   "resources":[
+    {"id":{"name":"o_Collision","path":"objects/o_Collision/o_Collision.yy",},},
+    {"id":{"name":"o_Player_Body","path":"objects/o_Player_Body/o_Player_Body.yy",},},
     {"id":{"name":"o_Player","path":"objects/o_Player/o_Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"s_Player","path":"sprites/s_Player/s_Player.yy",},},
+    {"id":{"name":"s_Collision","path":"sprites/s_Collision/s_Collision.yy",},},
+    {"id":{"name":"s_Player_Body","path":"sprites/s_Player_Body/s_Player_Body.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
